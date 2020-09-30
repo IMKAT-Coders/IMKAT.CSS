@@ -7,5 +7,4 @@ That is why I am sharing this on Github. I hope you like it!
 
 Thank you!
 
-P.S: This framework is still 'Work in Progress'. We will soon complete it, but still its
-also good as it is now.
+P.S: This framework is still 'Work in Progress'.
