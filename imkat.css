@@ -780,3 +780,167 @@ imkat-comment {
 imkat-string, imkat-num {
   color: #000000;
 }
+/*Border Colors*/
+.imkat-b-black {
+  border-color: #000000;
+}
+.imkat-b-white {
+  border-color: #ffffff;
+}
+.imkat-b-blue {
+  border-color: #0000ff;
+}
+.imkat-b-sakura {
+  border-color: #ffbbcd;
+}
+.imkat-b-skyblue {
+  border-color: #55ddff;
+}
+.imkat-b-turquoise {
+  border-color: #66ffff;
+}
+.imkat-b-yellow {
+  border-color: #ffff00;
+}
+.imkat-b-orange {
+  border-color: #ff9912;
+}
+.imkat-b-violet {
+  border-color: #6300cc;
+}
+.imkat-b-mauve {
+  border-color: #995599;
+}
+.imkat-b-red {
+  border-color: #ff0000;
+}
+.imkat-b-seablue {
+  border-color: #003eb3;
+}
+.imkat-b-darkblue {
+  border-color: #191966;
+}
+.imkat-b-prussianblue {
+  border-color: #003366;
+}
+.imkat-b-vermilionred {
+  border-color: #ff4400;
+}
+.imkat-b-lawngreen {
+  border-color: #aaff00;
+}
+.imkat-b-olivegreen {
+  border-color: #384d00;
+}
+.imkat-b-indigo {
+  border-color: #00004d;
+}
+.imkat-b-rainbowgreen {
+  border-color: #00ff00;
+}
+.imkat-b-tomatoketchup {
+  border-color: #ff5050;
+}
+.imkat-b-mayonnise {
+  border-color: #ffccb6;
+}
+.imkat-b-rustiron {
+  border-color: #992e00;
+}
+.imkat-b-fall {
+  border-color: #ff5e1a;
+}
+.imkat-b-fruits-sweetlime {
+  border-color: #aaff22;
+}
+.imkat-b-fruits-orange {
+  border-color: #ffaa33;
+}
+.imkat-b-fruits-banana {
+  border-color: #ddff11;
+}
+.imkat-b-fruits-mango {
+  border-color: #ffee22;
+}
+/*Outline Colors*/
+.imkat-o-black {
+  outline-color: #000000;
+}
+.imkat-o-white {
+  outline-color: #ffffff;
+}
+.imkat-o-blue {
+  outline-color: #0000ff;
+}
+.imkat-o-sakura {
+  outline-color: #ffbbcd;
+}
+.imkat-o-skyblue {
+  outline-color: #55ddff;
+}
+.imkat-o-turquoise {
+  outline-color: #66ffff;
+}
+.imkat-o-yellow {
+  outline-color: #ffff00;
+}
+.imkat-o-orange {
+  outline-color: #ff9912;
+}
+.imkat-o-violet {
+  outline-color: #6300cc;
+}
+.imkat-o-mauve {
+  outline-color: #995599;
+}
+.imkat-o-red {
+  outline-color: #ff0000;
+}
+.imkat-o-seablue {
+  outline-color: #003eb3;
+}
+.imkat-o-darkblue {
+  outline-color: #191966;
+}
+.imkat-o-prussianblue {
+  outline-color: #003366;
+}
+.imkat-o-vermilionred {
+  outline-color: #ff4400;
+}
+.imkat-o-lawngreen {
+  outline-color: #aaff00;
+}
+.imkat-o-olivegreen {
+  outline-color: #384d00;
+}
+.imkat-o-indigo {
+  outline-color: #00004d;
+}
+.imkat-o-rainbowgreen {
+  outline-color: #00ff00;
+}
+.imkat-o-tomatoketchup {
+  outline-color: #ff5050;
+}
+.imkat-o-mayonnise {
+  outline-color: #ffccb6;
+}
+.imkat-o-rustiron {
+  outline-color: #992e00;
+}
+.imkat-o-fall {
+  outline-color: #ff5e1a;
+}
+.imkat-o-fruits-sweetlime {
+  outline-color: #aaff22;
+}
+.imkat-o-fruits-orange {
+  outline-color: #ffaa33;
+}
+.imkat-o-fruits-banana {
+  outline-color: #ddff11;
+}
+.imkat-o-fruits-mango {
+  outline-color: #ffee22;
+}
